@@ -44,7 +44,7 @@ streamlit run app.py
 
 ## Usage
 
-1. Open the web app in your browser: [http://localhost:8501](https://lung-disease-prediction.streamlit.app/)
+1. Open the web app in your browser: [lung-disease-prediction.streamlit.app](https://lung-disease-prediction.streamlit.app/)
 2. Upload a chest X-ray image
 3. Get instant analysis and results
 
